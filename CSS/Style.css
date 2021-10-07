@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+/* background-color: rgb(226, 226, 226); */
+background: url("../Image/background.png");
+
+font-family: Arial;
+line-height: 1.5;
+font-size: 18px;
+color: rgb(241, 231, 231);
+}
+
+.card{
+    width: 400px;
+    margin: 0 auto;
+
+    background-color: rgba(214, 214, 214, 0.274);
+    box-shadow: 0 10px 40px #fff;
+    border-radius: 10px;
+    padding: 20px;
+    
+}
+
+
+.card-photo{
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+
+.card-title{
+    font-size: 20px;
+    text-align: center;
+    color: rgb(4, 205, 231);
+}
+
+.card-text{
+    font-size: 14px;
+}
+
+.card-subtitle{
+    font-size: 18px;
+    color: #01fb67;
+}
+
+.card-list{
+    padding-left: 0;
+    list-style-position:inside;
+    font-size: 14px;
+}
+
+
+/* .title {
+    font-size: 45px;
+    color: rgb(1 103 255);
+} */
